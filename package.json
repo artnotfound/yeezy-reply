@@ -1,0 +1,14 @@
+{
+  "name": "yeezy-reply",
+  "version": "1.0.0",
+  "description": "Automatically reply to @kanyewest tweets.",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Manny404",
+  "license": "ISC",
+  "dependencies": {
+    "lowdb": "^0.12.5",
+    "twitter": "^1.2.5"
+  }
+}
