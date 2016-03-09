@@ -9,6 +9,8 @@ Automatically reply to @kanyewest tweets before regular humans can.
 
 # Usage:
 
+Obligatory `npm install`
+
 Put your [Twitter App credentials](http://iag.me/socialmedia/how-to-create-a-twitter-app-in-8-easy-steps/) and the messages you would like to send (without any @mention) inside the `config.json` file.
 
 eg:
