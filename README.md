@@ -19,7 +19,7 @@ eg:
 {
   "user": {
     "name": "kanyewest",
-    "id": 169686021
+    "id_str": "169686021"
   },
   "messages": [
     "Please meet me at the Spotted Pig. I've been waiting for you there since that tweet.",

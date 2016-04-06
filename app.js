@@ -7,7 +7,7 @@ var session = low('./config.json', {'storage': storage});
 var client = new Twitter(config.api);
 
 client.stream('statuses/filter', {
-  'follow': config.user.id
+  'follow': config.user.id_str
 }, function (stream) {
   stream.on('data', function (tweet) {
     // only reply to tweets _from_ user
